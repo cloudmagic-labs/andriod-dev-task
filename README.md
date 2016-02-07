@@ -1,7 +1,7 @@
 # Android developer task
 ## Overview
 
-We've set up a simple NodeJS application which gives you a bunch of APIs to access and manipulate data. You will need to use these APIs and build an Android app. We prefer writing code using Android Studio. Also
+We've set up a simple NodeJS application which gives you a bunch of APIs to access and manipulate data. You will need to use these APIs and build an Android app. We prefer writing code using Android Studio.
 
 Feel free to make necessary changes in the server side code.
 
