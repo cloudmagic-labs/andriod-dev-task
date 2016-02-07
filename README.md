@@ -1,7 +1,7 @@
-# iOS developer task
+# Android developer task
 ## Overview
 
-We've set up a simple NodeJS application which gives you a bunch of APIs to access and manipulate data. You will need to use these APIs and build an iOS app. We prefer writing in Swift but you are free to use Objective C also
+We've set up a simple NodeJS application which gives you a bunch of APIs to access and manipulate data. You will need to use these APIs and build an Android app. We prefer writing code using Android Studio. Also
 
 Feel free to make necessary changes in the server side code.
 
@@ -10,7 +10,7 @@ Feel free to make necessary changes in the server side code.
 - `GET /api/message/:id` - get one message
 - `DELETE /api/message/:id` - delete one message
 
-**Your task, will be to consume these API's & build a UI which looks beautiful & more importantly feels intuitive. For an example of how the UI should look like, check out our app CloudMagic.**
+**Your task, will be to consume these API's & build a UI which looks beautiful & more importantly feels intuitive. For an example of how the UI should look like, check out our app CloudMagic Android App.**
 
 Here are few details which you might need:
 
