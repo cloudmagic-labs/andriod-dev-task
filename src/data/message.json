@@ -1,0 +1,66 @@
+{
+  "1": {
+    "subject": "With regard to our conversation earlier today",
+    "participants": [
+      {
+        "name": "Socrates",
+        "email": "socrates@gmail.com"
+      },
+      {
+        "name": "Confucius",
+        "email": "confucius@gmail.com"
+      }
+    ],
+    "preview": "With regard to our conversation earlier today",
+    "isRead": false,
+    "isStarred": false
+  },
+  "2": {
+    "subject": "Critique of Judgement - 30 copies",
+    "participants": [
+      {
+        "name": "David Hume",
+        "email": "david@gmail.com"
+      }
+    ],
+    "preview": "Hello, can you please send a quote for Critique of Judgement - 30 copies, so that I can run it by our procurement department and get things going as soon as possible",
+    "isRead": false,
+    "isStarred": true
+  },
+  "3": {
+    "subject": "Artwork for \"Collection of Plato's  Dialogues\"",
+    "participants": [
+      {
+        "name": "Plato",
+        "email": "plato@gmail.com"
+      }
+    ],
+    "preview": "Aristotle,\nI shortlisted a designed from Dribble",
+    "isRead": false,
+    "isStarred": false
+  },
+  "4": {
+    "subject": "Critique of Pure Reason - 20 copies",
+    "participants": [
+      {
+        "name": "Bertrand Russel",
+        "email": "bert@gmail.com"
+      }
+    ],
+    "preview": "Hello,\n Thanks for the quote. I appreciate the swift response!",
+    "isRead": false,
+    "isStarred": false
+  },
+  "5": {
+    "subject": "Top exotic beaches in Greece",
+    "participants": [
+      {
+        "name": "Aristotle",
+        "email": "aristotle@gmail.com"
+      }
+    ],
+    "preview": "Plato,\nThis is what I was talking about for the bachelor party!",
+    "isRead": false,
+    "isStarred": true
+  }
+}
