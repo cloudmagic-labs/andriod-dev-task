@@ -1,6 +1,0 @@
-{
-  "app_name": "Kratos",
-  "port": 8088,
-  "max_connections": 100,
-  "log_directory": "/tmp"
-}
