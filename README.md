@@ -10,15 +10,7 @@ Feel free to make necessary changes in the server side code.
 - `GET /api/message/:id` - get one message
 - `DELETE /api/message/:id` - delete one message
 
-**Your task, will be to consume these API's & build a UI which looks beautiful & more importantly feels intuitive. For an example of how the UI should look like, check out our app CloudMagic Android App.**
-
-Here are few details which you might need:
-
-- Serves static content from the static_content & bower_components directory
-- You can have your JS, CSS files & images/sprites in static_content & any plugins can go in bower_components
-- Router is at controllers/router.js
-- Web controllers are at controllers/web/
-- API controllers are at controller/api/
+**Your task, will be to consume these API's & build a UI which looks beautiful & more importantly feels intuitive. For an example of how the UI should look like, check out our CloudMagic Android App.**
 
 ## How to setup
 
