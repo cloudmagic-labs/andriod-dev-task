@@ -28,11 +28,6 @@
         var self  = this;
         self._app = express();
 
-        // Setup access logging
-        var accessLogPath   = config.log_directory + '/' + config.app_name + '_access.log';
-        var accessLogStream = fs.createWriteStream(accessLogPath, {flags: 'a'});
-        self._app.use(morgan(self._getAccessLogFormat(), {stream: accessLogStream}));
-
         // Setup template engine & view renderer
         self._app.set('views', __dirname + '/views/web');
         self._app.set('view engine', 'jade');
